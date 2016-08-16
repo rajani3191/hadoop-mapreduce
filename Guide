@@ -1,0 +1,11 @@
+# hadoop-mapreduce
+Weather Data Report
+
+
+
+This assignment is prepared using Map Reduce program in Java. 
+The sample data file is attached. Please note the substring value of Position is taken from 10th to 25th position and the substring value of Weather conditions are taken from 45th to 50th position.
+
+Please review and share your feedback.
+
+
